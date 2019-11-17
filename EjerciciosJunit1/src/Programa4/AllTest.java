@@ -6,7 +6,7 @@ import junit.framework.JUnit4TestAdapter;
 
 // This section declares all of the test classes in the program.
 @RunWith (Suite.class)
-@Suite.SuiteClasses ({ CountPositiveTest.class })  // Add test classes here.
+@Suite.SuiteClasses ({ OddOrPosTest.class })  // Add test classes here.
 
 public class AllTest
 {
